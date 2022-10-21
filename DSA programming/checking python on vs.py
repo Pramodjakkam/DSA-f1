@@ -1,0 +1,5 @@
+print("Enter the a and b")
+a=int(input())
+b=int(input())
+print("Sum of a and b: ",a+b)
+print("python in vs code is working successfully now !! Its great good to go go on boiii")
